@@ -7,3 +7,4 @@ Analisis de datos de peliculas y series para entender el comportamiento de los u
 ~SRRC: codigo
 data: ficheros crudos y limpios
 Notebooks:ficheros de prueba
+Librerias: pip install -r requirements.txt
