@@ -12,4 +12,4 @@ headers = {
 
 response = requests.get(url_popular_movies, headers=headers)
 
-print(response.json()["results"])
+print(response.json()["results"]) 
